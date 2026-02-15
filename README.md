@@ -14,4 +14,14 @@ This project demonstrates deploying a Flask backend API and an Express frontend 
 ## 2. Single EC2 Deployment
 Both Flask and Express applications are deployed on a single EC2 instance. Nginx is configured as a reverse proxy to route traffic.
 
-![alt text](image.png)
+![one_EC2](image.png)
+
+![BackEnd](image-1.png)
+
+![FrontEnd](image-2.png)
+
+![Nginx_Configure](image-3.png)
+
+![Nginx_FrontEnd](image-4.png)
+
+![Nginx_backEnd](image-5.png)
