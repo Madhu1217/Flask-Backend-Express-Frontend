@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
 });
 
 app.post("/submit", async (req, res) => {
-  const response = await axios.post("http://backend:5000/submit", {
+  const response = await axios.post("http://flask-backend:5000/submit", {
     name: req.body.name,
     email: req.body.email,
     message: req.body.message,
