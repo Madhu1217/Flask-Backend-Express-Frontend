@@ -1,10 +1,3 @@
-## Flask + Node.js Docker Project
-
-### Run Locally
-
-```bash
-docker-compose up --build
-```
 ## 1. Project Overview
 This project demonstrates deploying a Flask backend API and an Express frontend application on Amazon Web Services using three different architectures:
 - Single EC2 Instance Deployment
